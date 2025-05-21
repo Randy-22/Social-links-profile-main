@@ -40,7 +40,7 @@ The project focuses on:
 
 #### Desktop design
 
-  ![Desktop Design](design/Desktop-design.png)
+  ![Desktop Design](design/desktop-design.png)
 
 #### Active-state design
 
