@@ -69,8 +69,7 @@ The `.container` uses Flexbox to center the `.social-card` in the viewport, crea
 Class names are structured following the **BEM (Block Element Modifier)** methodology. This improves code organization, prevents style conflicts, and enhances reusability for future components.
 
 - Global variables:
-Implementation of CSS global variables. This help promote reusablilty through out my code.
-Specifically, i implemennted this feature by creating variable for color that are to used through out this project.
+One key aspect of this project was the implementation of CSS global variables, which helped promote reusability and maintainability across the codebase.
 
 - Hover Interaction:
  I also applied :hover and :focus-visible effects on links to improve interactivity and accessibility.
@@ -87,11 +86,12 @@ I used the  `"Inter", sans-serif;` font from Google Fonts for modern readability
 
 ### What I learned
 
-One key thing i have learnt from this project is the use of **CSS transition and translation.** I applied these in hoverablilty and focusing of the links in the profile card. These features create a user interactability with the webpage.
+One key takeaway from this project was the practical use of **CSS transitions and transforms**. I applied these to enhance interactivity—such as subtle hover and focus effects on the social links—making the profile card feel more dynamic and engaging.
 
-The second thing i would like to point is the **no reliance on media queries** throughout this project. I applied the `clamp()` function width, paddings and margins through out this project.
+Another valuable lesson was learning to build responsive designs without relying heavily on media queries. Instead, I used the `clamp()` function for widths, paddings, margins, and font sizes, allowing the layout to adapt fluidly across screen sizes with minimal code.
 
-Also, the use of global variables in this code was really helpful promoting reusablity.
+Additionally, I discovered the benefit of using CSS custom properties (variables). Defining global variables improved code maintainability and reusability, especially when working with consistent color schemes and spacing values throughout the project.
+Specifically, I defined color variables in the :root selector at the top of my CSS file. This allowed me to store commonly used color values in one place and reference them consistently throughout the stylesheet.
 
 To see how you can add code snippets, see below:
 
