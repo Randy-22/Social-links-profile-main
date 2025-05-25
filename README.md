@@ -49,7 +49,7 @@ The project focuses on:
 ### Links
 
 - Solution URL: [https://github.com/Randy-22/Social-links-profile-main](https://github.com/Randy-22/Social-links-profile-main)
-- Live Site URL: [https://randy-22.github.io/Social-links-profile-main/](https://randy-22.github.io/Blog-preview-card/https://randy-22.github.io/Social-links-profile-main/)
+- Live Site URL: [https://randy-22.github.io/Social-links-profile-main/](https://randy-22.github.io/Social-links-profile-main/)
 
 ## My process
 
